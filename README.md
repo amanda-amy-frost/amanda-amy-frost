@@ -1,15 +1,17 @@
-## What is occupying my time at the moment
+## What I'm working on at the moment
 
 - Data analysis [mini-project](https://github.com/amanda-amy-frost/tourists)
-- Building a website (link coming soon)
-- Migrating to Linux from Windows 11
+- Building a [website](https://amandafrost.eu/) (still WIP)
+- Migrating from Windows to Linux
 - Learning Rust and brushing up on functional programming
 
+<!--
 Ask me about any academic subject under the sun and I will likely have something interesting to say. Areas of interest:
 
 - Math, physics, astronomy, cosmology, biology
 - Linguistics, psychology, philosophy, sociology
 - Fiction (books, movies, etc.)
+-->
 
 <!--
 - 🔭 I’m currently working on ...
