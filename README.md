@@ -4,6 +4,9 @@
 - Building a [website](https://amandafrost.eu/) (still WIP)
 - Migrating from Windows to Linux
 - Learning Rust and brushing up on functional programming
+- Open source contributions
+  - [Windows fix for kanban TUI in Rust](https://github.com/fulsomenko/kanban/pull/247)
+  - [Ibid. improving editor handling](https://github.com/fulsomenko/kanban/pull/255)
 
 <!--
 Ask me about any academic subject under the sun and I will likely have something interesting to say. Areas of interest:
