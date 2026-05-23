@@ -7,6 +7,7 @@
 - Open source contributions
   - [Windows fix for kanban TUI in Rust](https://github.com/fulsomenko/kanban/pull/247)
   - [Ibid. improving editor handling](https://github.com/fulsomenko/kanban/pull/255)
+  - [Danish translations](https://hosted.weblate.org/projects/planner/io-github-alainm23-planify/da/) for [Planify](https://useplanify.com/)
 
 <!--
 Ask me about any academic subject under the sun and I will likely have something interesting to say. Areas of interest:
